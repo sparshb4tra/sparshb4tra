@@ -2,7 +2,7 @@
 
 💻 **B.Tech IT student** at Bhagwan Parshuram Institute of Technology  
 🔍 **Passionate about** software development, AI, and data analytics  
-🚀 **Projects:** Built real-time inventory systems, AI-powered apps & data dashboards  
+🚀 **Projects:** Built Student Performance Prediction, real-time inventory systems, AI-powered apps & data dashboards  
 📊 **Tech Stack:**  
 🔹 **Languages:** Python, C++, JavaScript, SQL  
 🔹 **Frameworks & Libraries:** React, Pandas, NumPy, Scikit-learn, Bootstrap  
@@ -10,6 +10,7 @@
 🔹 **Tools:** Jupyter Notebooks, Tableau, Power BI, Git, Figma  
 🔹 **Domains:** Machine Learning, Data Science, Web Development  
 🌱 **Learning:** Cybersecurity, cloud computing, and AI innovations  
+🔭 **Currently working on:** Tennis Match Outcome Predictor 
 
 
 
