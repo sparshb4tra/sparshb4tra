@@ -6,7 +6,7 @@
 📊 **Tech Stack:**  
 🔹 **Languages:** Python, C++, JavaScript, SQL  
 🔹 **Frameworks & Libraries:** React, Pandas, NumPy, Scikit-learn, Bootstrap  
-🔹 **Databases:** MySQL  
+🔹 **Databases:** MySQL, Firebase  
 🔹 **Tools:** Jupyter Notebooks, Tableau, Power BI, Git, Figma  
 🔹 **Domains:** Machine Learning, Data Science, Web Development  
 🌱 **Learning:** Cybersecurity, cloud computing, and AI innovations  
