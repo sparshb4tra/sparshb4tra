@@ -1,7 +1,6 @@
 ## Hi, I'm Sparsh ✨
 
 💻 **B.Tech IT student** at Bhagwan Parshuram Institute of Technology  
-🔍 **Passionate about** software development, AI, and data analytics  
 🚀 **Projects:** Built Student Performance Prediction, real-time inventory systems, AI-powered apps & data dashboards  
 🔹 **Domains:** Machine Learning, Data Science, Web Development  
 🌱 **Learning:** Cybersecurity, cloud computing, and AI innovations  
