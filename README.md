@@ -1,10 +1,8 @@
 ## Hi, I'm Sparsh ✨
-
-💻 **B.Tech IT student** at Bhagwan Parshuram Institute of Technology  
-🚀 **Projects:** Built Student Performance Prediction, real-time inventory systems, AI-powered apps & data dashboards  
-🔹 **Domains:** Machine Learning, Data Science, Web Development  
-🌱 **Learning:** Cybersecurity, cloud computing, and AI innovations  
-🔭 **Currently working on:** Tennis Match Outcome Predictor 
+21-year-old IT student who loves building things that actually work. I'm into ML, data science, and web dev—currently obsessed with making prediction models for tennis match outcomes and student's performances (because why not?). 
+<br><br>
+My projects range from polished apps to messy experiments, but I'm always learning something new.
+Right now I'm exploring cybersecurity and cloud stuff while trying to make AI feel less intimidating.<br><br> Always down to connect with people who share this curiosity about tech. Let's build something cool together!
 
 
 
