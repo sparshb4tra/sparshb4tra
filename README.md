@@ -22,7 +22,6 @@ currently in my **it undergrad**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparshb4tra&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
----
 [![](https://visitcount.itsvg.in/api?id=sparshb4tra&icon=3&color=11)](https://visitcount.itsvg.in)
 
 
