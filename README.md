@@ -32,7 +32,7 @@ currently in my **it undergrad**
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Stack
 
 ### Programming Languages
 <p>
