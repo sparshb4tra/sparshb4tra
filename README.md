@@ -159,15 +159,7 @@ currently in my **it undergrad**
 
 ---
 
-## 🚀 What I'm Working On
 
-- 🔬 **ML Experiments** — Pushing boundaries in machine learning applications
-- 🌐 **Full-Stack Web Apps** — Building end-to-end solutions
-- 🎨 **Design Systems** — Creating beautiful, functional interfaces
-- ⚡ **Automation Tools** — Making life easier through code
-- 📚 **Learning Journey** — Constantly expanding my backend & systems knowledge
-
----
 
 ## 💬 Let's Connect & Collaborate
 
@@ -183,9 +175,7 @@ currently in my **it undergrad**
   </a>
 </p>
 
-<p align="center">
-  <i>Always open to interesting conversations about tech, design, and innovation!</i>
-</p>
+
 
 <!-- Footer -->
 
