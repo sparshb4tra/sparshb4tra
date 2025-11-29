@@ -60,8 +60,10 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sparshb4tra&icon=3&color=11" />
+=
   <br/>
+</div>
+
   <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
