@@ -28,11 +28,13 @@
   "stack": {
     "focus": ["Data Science", "Backend Eng", "Automation"],
     "building": ["ML Projects", "Web Apps", "Experiments"],
-    "latest work": https://n0teai.vercel.app
+  
   }
 }
 ```
-
+Latest work: [n0teai](https://n0teai.vercel.app)
+ 
+ 
 <br/>
 
 <!-- Tech Stack -->
