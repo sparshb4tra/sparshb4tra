@@ -28,7 +28,7 @@
   "stack": {
     "focus": ["Data Science", "Backend Eng", "Automation"],
     "building": ["ML Projects", "Web Apps", "Experiments"],
-    "learning": ["Distributed Systems", "System Design"]
+  
   }
 }
 ```
