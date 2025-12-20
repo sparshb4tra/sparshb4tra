@@ -32,7 +32,7 @@
   }
 }
 ```
-Latest work: [n0teai](https://n0teai.vercel.app)
+Latest work: [randomlist](https://rand0mlist.vercel.app)
  
  
 <br/>
